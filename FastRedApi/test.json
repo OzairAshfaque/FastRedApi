@@ -1,0 +1,28 @@
+[
+ {
+   "trip_id": 101,
+   "start_time": "01/01/2019 00:04:37",
+   "end_time": "01/01/2019 00:11:07",
+   "bikeid": 2167,
+   "tripduration": "390",
+   "from_station_id": 199,
+   "from_station_name": "Wabash Ave & Grand Ave",
+   "to_station_id": 84,
+   "to_station_name": "Milwaukee Ave & Grand Ave",
+   "gender": "Male",
+   "birthyear": 1989
+ },
+ {
+   "trip_id": 102,
+   "start_time": "01/01/2019 00:08:13",
+   "end_time": "01/01/2019 00:15:34",
+   "bikeid": 4386,
+   "tripduration": "441",
+   "from_station_id": 44,
+   "from_station_name": "State St & Randolph St",
+   "to_station_id": 624,
+   "to_station_name": "Dearborn St & Van Buren St (*)",
+   "gender": "Female",
+   "birthyear": 1990
+ }
+]

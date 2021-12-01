@@ -1,0 +1,14 @@
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.Services.deps.json
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.Services.dll
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.Services.pdb
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.csprojAssemblyReference.cache
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.AssemblyInfoInputs.cache
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.AssemblyInfo.cs
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.csproj.CoreCompileInputs.cache
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.dll
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.pdb
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.dll
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.Entity.dll
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.pdb
+C:\FastRed\FastRedApi\Data.Services\bin\Debug\netcoreapp3.1\Data.Entity.pdb
+C:\FastRed\FastRedApi\Data.Services\obj\Debug\netcoreapp3.1\Data.Services.csproj.CopyComplete

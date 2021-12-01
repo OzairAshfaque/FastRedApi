@@ -1,0 +1,12 @@
+C:\FastRed\FastRedApi\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\FastRed\FastRedApi\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\FastRed\FastRedApi\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\FastRed\FastRedApi\Data\bin\Debug\netcoreapp3.1\Data.Entity.dll
+C:\FastRed\FastRedApi\Data\bin\Debug\netcoreapp3.1\Data.Entity.pdb
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\FastRed\FastRedApi\Data\obj\Debug\netcoreapp3.1\Data.pdb
